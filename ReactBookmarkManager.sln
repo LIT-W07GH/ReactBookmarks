@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactBookmarkManager.Web", "ReactBookmarkManager.Web\ReactBookmarkManager.Web.csproj", "{63B05201-D9F5-421D-9F26-53EBF5951DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactBookmarkManager.Data", "ReactBookmarkManager.Data\ReactBookmarkManager.Data.csproj", "{E6A126DB-D0FB-44AF-A972-F2587403C029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactBookmarksManager.DummyDataPopulator", "ReactBookmarksManager.DummyDataPopulator\ReactBookmarksManager.DummyDataPopulator.csproj", "{CDF77767-EC88-4A00-A00F-941178EC2F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B05201-D9F5-421D-9F26-53EBF5951DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B05201-D9F5-421D-9F26-53EBF5951DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B05201-D9F5-421D-9F26-53EBF5951DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B05201-D9F5-421D-9F26-53EBF5951DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A126DB-D0FB-44AF-A972-F2587403C029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A126DB-D0FB-44AF-A972-F2587403C029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A126DB-D0FB-44AF-A972-F2587403C029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A126DB-D0FB-44AF-A972-F2587403C029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF77767-EC88-4A00-A00F-941178EC2F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF77767-EC88-4A00-A00F-941178EC2F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF77767-EC88-4A00-A00F-941178EC2F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF77767-EC88-4A00-A00F-941178EC2F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD9BE0BD-D83A-479A-AB88-E776E2172584}
+	EndGlobalSection
+EndGlobal
